@@ -41,4 +41,4 @@ async def on_message(message):
         await message.channel.send(res)
 
 
-client.run("Paste Token her")
+client.run("Paste Token here")
